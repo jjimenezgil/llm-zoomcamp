@@ -2,7 +2,7 @@
 
 ## Install libraries
 
-*pip install tqdm notebook==7.1.2 openai elasticsearch pandas scikit-learn requests*
+*pip install tqdm notebook==7.1.2 openai elasticsearch pandas scikit-learn requests tiktoken*
 
 ## Export keys as environment variables 
 
