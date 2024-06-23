@@ -49,7 +49,7 @@ docker run -it \
     }
 }
 
-**Query**
+**Query:**
 {
     "size": 5,
     "query": {
